@@ -1,0 +1,21 @@
+{
+  "extensionName": {
+    "message": "Rechercher",
+    "description": "Rechercher ..."
+  },
+  "extensionDescription": {
+    "message": "Permet de filtrer par expéditeur/sujet"
+  },
+  "sfsender": {
+	"message": "Recherche par adresse e-mail"
+  },
+  "sfsender_name": {
+	"message": "Recherche par nom"
+  },
+  "sfsender_domain": {
+	"message": "Recherche par domaine"
+  },
+  "sfsubject": {
+	"message": "Recherche par sujet"
+  }
+}

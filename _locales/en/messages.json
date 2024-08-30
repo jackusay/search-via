@@ -1,0 +1,21 @@
+{
+  "extensionName": {
+    "message": "Search For",
+    "description": "Search For ..."
+  },
+  "extensionDescription": {
+    "message": "Allows users filter by Sender/Subject"
+  },
+  "sfsender": {
+	"message": "Search for sender address"
+  },
+  "sfsender_name": {
+	"message": "Search for sender name"
+  },
+  "sfsender_domain": {
+	"message": "Search for sender domain"
+  },
+  "sfsubject": {
+	"message": "Search for subject"
+  }
+}
