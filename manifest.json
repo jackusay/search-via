@@ -2,11 +2,11 @@
   "manifest_version": 2,
   "applications": {
     "gecko": {
-      "id": "searchfor@infonny.com",
+      "id": "111searchfor@infonny.com",
       "strict_min_version": "77.0"
     }
   },
-  "name": "Search for",
+  "name": "Search for 111",
   "short_name": "SearchFor",
   "version": "1.0.1",
   "description": "Context menu on message allowing quick filtering based on email/sender or domain",
