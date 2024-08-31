@@ -6,11 +6,11 @@
       "strict_min_version": "77.0"
     }
   },
-  "name": "Search for 111",
-  "short_name": "SearchFor",
-  "version": "1.0.1",
+  "name": "Search Via",
+  "short_name": "SearchVia",
+  "version": "1.0.2",
   "description": "Context menu on message allowing quick filtering based on email/sender or domain",
-  "author": "Richard LAUTH",
+  "author": "jackusay",
   "homepage_url": "http://www.google.com",
   "icons": {
     "48": "skin/SearchFor.png"
